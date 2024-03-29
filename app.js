@@ -1,3 +1,3 @@
 function alertButton() {
-	alert("hello World")
+	alert("Js stuff will get added at some point")
 }
