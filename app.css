@@ -1,13 +1,24 @@
+@import url('https://fonts.googleapis.com/css2?family=Lobster&family=Audiowide&family=Black+Ops+One&family=Oswald:wght@100;200;300;400;500;600;700;800;900&display=swap');
+
+*{
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+	font-family: 'Lobster', sans-serif;
+}
+
 body {
+  
   background-color: lightblue;
 }
 
 h1 {
-  color: white;
+  font-family:'Black Ops One', system-ui;
+  color: black;
   text-align: center;
 }
 
 p {
-  font-family: verdana;
-  font-size: 20px;
+  font-family: 'Audiowide', sans-serif;
+  font-size: 50px;
 }
