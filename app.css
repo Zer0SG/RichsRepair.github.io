@@ -82,7 +82,7 @@ p {
   font-family: 'Audiowide', sans-serif;
   font-size: 16px;
   color: white;
-  margin: 15px 0 20px 0;
+  margin: 15px 15px 20px 20px;
 }
 
 .section-p1 {
@@ -123,6 +123,7 @@ body {
 #navbar li a{
 	text-decoration: none;
 	font-size: 16px;
+	font-family: "Audiowide", sans-serif;
 	font-weight: 200;
 	color: black;
 	transition: 0.5s ease;
